@@ -24,6 +24,16 @@ body{
 .gray-text{
     color:#252B42 ;
 }
+.final-button{
+    background-color: #E76F51;
+    padding: 5px;
+    margin: 5px;
+    width: 168px;
+}
+
+.final-bg{
+    background-color:#082d3b ;
+}
 
     
 
