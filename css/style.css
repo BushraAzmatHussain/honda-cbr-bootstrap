@@ -1,3 +1,29 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.bg-gray{
+    background-color: #264653;
+}
+.new-button{
+    width: 168px;
+    height: 44px;
+    padding: 5px;
+    background-color:#E76F51;
+    border: none;
+    border-radius: 3px;
+}
+.change-bike-color{
+    filter: grayscale(100%);
+}
+.orange-text{
+    color: #E76F51;
+}
+.blue-text{
+    color: #23A6F0;
+}
+.gray-text{
+    color:#252B42 ;
+}
+
+    
+
